@@ -5,6 +5,11 @@
       "ProjectGuid": "44d6b32c-ba39-46f5-a5bc-5cde736d6807",
       "DisplayName": "tamrin-news-asp",
       "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
     }
   },
   "NextColorIndex": 1
